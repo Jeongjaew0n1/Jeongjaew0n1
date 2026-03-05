@@ -1,9 +1,5 @@
 # ⚡️ Jeongjaew0n1 | Backend Engineering
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Building%20Intelligent%20Services&fontSize=50&fontColor=ffffff" />
-</div>
-
 ## 📌 Introduction
 - 💻 **Backend Developer** focused on building scalable and efficient systems.
 - 🚀 주요 프로젝트: **Highlight** (Gemini AI 기반 뉴스 요약 큐레이션 서비스).
