@@ -27,8 +27,9 @@
 - **Core**: Naver News API + Gemini Pro API 연동
 - **Key Task**: `WebClient`를 이용한 비동기 API 통신 및 뉴스 데이터 요약 로직 최적화
 
-### Library Delivery
-> **도서 관리 및 배송 시스템**
+### [Library Delivery](https://github.com/Jeongjaew0n1/library_delivery)
+> **도서 관리 및 비대면 배송 시스템**
+- **Key Task**: 대여-배송 상태 연동 로직 구현 및 역할 기반 권한 제어(RBAC) 적용
 
 ---
 <div align="right">
