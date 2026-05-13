@@ -22,6 +22,12 @@
 </div>
 
 ## 📂 Key Projects
+
+### [Aulim Security (Eoullim-Project)](https://github.com/Jeongjaew0n1/Eoullim-Project)
+> **웹 서비스 기업 대상 통합 보안 솔루션**
+- **Core**: 네트워크 인프라 보안 설계 및 백엔드 통합 관제
+- **Key Task**: Cisco ASA 방화벽 기반 ACL 정책 수립 및 웹 서비스 로그 모니터링 시스템 구축
+
 ### [Highlight](https://github.com/Jeongjaew0n1/korit_07_Nuzip)
 > **AI 기반 뉴스 요약 플랫폼**
 - **Core**: Naver News API + Gemini Pro API 연동
