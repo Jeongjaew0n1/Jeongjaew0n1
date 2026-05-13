@@ -17,8 +17,8 @@
 
 ## 📈 Engineering Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeongjaew0n1&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongjaew0n1&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeongjaew0n1&show_icons=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongjaew0n1&layout=compact&hide_border=true" height="170" />
 </div>
 
 ## 📂 Key Projects
