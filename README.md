@@ -1,4 +1,4 @@
-# ⚡️ Jeongjaew0n1 | Backend Engineering
+# ⚡️ Jeongjaewon1 | Backend Engineering
 
 ## 📌 Introduction
 - 💻 **Backend Developer** focused on building scalable and efficient systems.
@@ -17,27 +17,27 @@
 
 ## 📈 Engineering Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeongjaew0n1&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongjaew0n1&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeongjaewon1&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeongjaewon1&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ## 📂 Key Projects
 
-### [Aulim Security (Eoullim-Project)](https://github.com/Jeongjaew0n1/Eoullim-Project)
+### [Aulim Security (Eoullim-Project)](https://github.com/Jeongjaewon1/Eoullim-Project)
 > **웹 서비스 기업 대상 통합 보안 솔루션**
 - **Core**: 네트워크 인프라 보안 설계 및 백엔드 통합 관제
 - **Key Task**: Cisco ASA 방화벽 기반 ACL 정책 수립 및 웹 서비스 로그 모니터링 시스템 구축
 
-### [Highlight](https://github.com/Jeongjaew0n1/korit_07_Nuzip)
+### [Highlight](https://github.com/Jeongjaewon1/korit_07_Nuzip)
 > **AI 기반 뉴스 요약 플랫폼**
 - **Core**: Naver News API + Gemini Pro API 연동
 - **Key Task**: `WebClient`를 이용한 비동기 API 통신 및 뉴스 데이터 요약 로직 최적화
 
-### [Library Delivery](https://github.com/Jeongjaew0n1/library_delivery)
+### [Library Delivery](https://github.com/Jeongjaewon1/library_delivery)
 > **도서 관리 및 비대면 배송 시스템**
 - **Key Task**: 대여-배송 상태 연동 로직 구현 및 역할 기반 권한 제어(RBAC) 적용
 
 ---
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Jeongjaew0n1&color=000000&style=flat-square&label=VISITORS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Jeongjaewon1&color=000000&style=flat-square&label=VISITORS" alt="Views" />
 </div>
